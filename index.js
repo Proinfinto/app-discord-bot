@@ -7,7 +7,7 @@ client.on('ready', () => {
 });
 
 client.on('message', msg => {
-  if(msg.member.user.tag === 'irb#8939'){
+  if(msg.member.user.tag === 'Proinfinto#4632'){
     msg.reply('Sen sus çomar!');
   }
 });
