@@ -1,4 +1,6 @@
 {
   "prefix": "!",
-  "token": "add-token-key"
+  "token": "_",
+  "giphyToken": "_",
+  "tokens": "_"
 }
